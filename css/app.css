@@ -1,0 +1,20 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+
+canvas {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    display: block;
+}
+
+#FullScreen {
+    position: absolute;
+    top: 20;
+    left: 20;
+    z-index: 99;
+}

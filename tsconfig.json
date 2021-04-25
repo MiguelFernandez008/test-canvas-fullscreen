@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+      "module": "ES2015",
+      "noImplicitAny": true,
+      "removeComments": true,
+      "preserveConstEnums": true,
+      //"outFile": "./build/app.js",
+      "sourceMap": true,
+      "target": "ES2015"
+    },
+    "include": ["js/**/*"],
+    "exclude": ["node_modules", "**/*.spec.ts"]
+    }
